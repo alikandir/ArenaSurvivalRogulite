@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ArenaSurvivalRogulite.sln"
+    "dotnet.defaultSolution": "ArenaSurvivalRogulite.sln",
+    "unity-code-snippets.style": "allman"
 }
